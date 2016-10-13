@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="8" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="house1" tilewidth="16" tileheight="16" tilecount="88" columns="11">
+  <image source="first floor house.png" width="176" height="138"/>
+ </tileset>
+ <tileset firstgid="89" name="house2" tilewidth="16" tileheight="16" tilecount="80" columns="10">
+  <image source="second floor house.png" width="160" height="136"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="11" height="8">
+  <data encoding="base64">
+   AQAAAAIAAAADAAAABAAAAAUAAAAJAAAACQAAAAEAAAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAAEAAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABcAAAAYAAAAJQAAACUAAAAbAAAAMQAAADEAAACcAAAAnQAAAJ4AAAA8AAAAIgAAACMAAAAkAAAAJQAAADEAAAAxAAAAMQAAAKYAAACnAAAAqAAAACwAAAAtAAAALgAAAC8AAAAwAAAAMQAAADEAAAAxAAAAPAAAADwAAAA8AAAAPAAAADgAAAAxAAAAOgAAADsAAAA8AAAAPQAAAD4AAAA/AAAAQAAAAEEAAABCAAAAQwAAAEQAAABFAAAARgAAAEcAAABIAAAASQAAAEoAAABLAAAATAAAAE0AAABOAAAAMQAAAFAAAABRAAAAUgAAAFMAAABUAAAAVQAAAFYAAABXAAAAWAAAAA==
+  </data>
+ </layer>
+</map>
